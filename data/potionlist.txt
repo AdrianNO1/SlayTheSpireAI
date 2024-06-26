@@ -1,0 +1,84 @@
+Ambrosia
+Ambrosia	Rare (Watcher only)	Enter Divinity Stance.
+AncientPotion
+Ancient Potion	Uncommon	Gain 1 (SacredBark 2) Icon Artifact Artifact.
+AttackPotion
+Attack Potion	Common	Add (SacredBark 2 copies of) 1 of 3 random Attack cards to your hand, it costs (SacredBark They cost) 0 Energy this turn.
+Blessing Of The Forge temporary
+Blessing of the Forge	Common	Upgrade all cards in your hand for the rest of combat.
+BlockPotion
+Block Potion	Common	Gain 12 (SacredBark 24) Icon Block Block.
+BloodPotion
+Blood Potion	Common (Ironclad only)	Heal for 20% (SacredBark 40%) of your Max HP.
+BottledMiracle
+Bottled Miracle	Common (Watcher only)	Add 2 (SacredBark 4) Miracles to your hand.
+Colorless Potion
+Colorless Potion	Common	Choose 1 of 3 random Colorless cards to add (SacredBark 2 copies of it) to your hand, it costs (SacredBark They cost) 0 Energy this turn.
+CultistPotion
+Cultist Potion	Rare	Gain 1 (SacredBark 2) Icon Ritual Ritual.
+CunningPotion
+Cunning Potion	Uncommon (Silent only)	Add 3 (SacredBark 6) Upgraded Shivs to your hand.
+DexterityPotion
+Dexterity Potion	Common	Gain 2 (SacredBark 4) Icon Dexterity Dexterity.
+latest?cb=20200219002047&format=original
+Distilled Chaos	Uncommon	Play the top 3 (SacredBark 6) cards of your draw pile.
+latest?cb=20200219002657&format=original
+Duplication Potion	Uncommon	This turn, your next card is (SacredBark next 2 cards are) played twice.
+Elixir
+Elixir	Uncommon (Ironclad only)	Exhaust any number of cards in your hand.
+EnergyPotion
+Energy Potion	Common	Gain 2 (SacredBark 4) Energy.
+latest?cb=20200219003109&format=original
+Entropic Brew	Rare	Fill all your empty potion slots with random potions.
+EssenceOfDarkness
+Essence of Darkness	Rare (Defect only)	Channel 1 (SacredBark 2) Dark Dark Orbs for each orb slot.
+EssenceOfSteel
+Essence of Steel	Uncommon	Gain 4 (SacredBark 8) Icon PlatedArmor Plated Armor.
+ExplosivePotion
+Explosive Potion	Common	Deal 10 (SacredBark 20) Damage to all enemies.
+FairyinaBottle
+Fairy in a Bottle	Rare	When you would die, heal to 30% (SacredBark 60%) of your Max HP instead and discard this potion.
+FearPotion
+Fear Potion	Common	Apply 3 (SacredBark 6) Icon Vulnerable Vulnerable.
+FirePotion
+Fire Potion	Common	Deal 20 (SacredBark 40) Damage to target enemy.
+SteroidPotion
+Flex Potion	Common	Gain 5 (SacredBark 10) Icon Strength Strength. At the end of your turn, lose 5 (SacredBark 10) Icon Strength Strength.
+FocusPotion
+Focus Potion	Common (Defect only)	Gain 2 (SacredBark 4) Icon Focus Focus.
+FruitJuice
+Fruit Juice	Rare	Gain 5 (SacredBark 10) Max HP.
+GamblersBrew
+Gambler's Brew	Uncommon	Discard any number of cards, then draw that many.
+GhostInAJar
+Ghost In A Jar	Rare (Silent only)	Gain 1 (SacredBark 2) Icon Intangible Intangible.
+HeartofIron
+Heart of Iron	Rare (Ironclad only)	Gain 6 (SacredBark 12) Icon Metallicize Metallicize.
+LiquidBronze
+Liquid Bronze	Uncommon	Gain 3 (SacredBark 6) Icon Thorns Thorns.
+LiquidMemories
+Liquid Memories	Uncommon	Choose a card (SacredBark 2 cards) in your discard pile and return it (SacredBark them) to your hand. It costs (SacredBark They cost) 0 Energy this turn.
+PoisonPotion
+Poison Potion	Common (Silent only)	Apply 6 (SacredBark 12) Icon Poison Poison to target enemy.
+PotionofCapacity
+Potion of Capacity	Uncommon (Defect only)	Gain 2 (SacredBark 4) Orb slots.
+PowerPotion
+Power Potion	Common	Add (SacredBark 2 copies of) 1 of 3 random Power cards to your hand, it costs (SacredBark They cost) 0 Energy this turn.
+RegenPotion
+Regen Potion	Uncommon	Gain 5 (SacredBark 10) Icon Regen Regeneration.
+SkillPotion
+Skill Potion	Common	Add (SacredBark 2 copies of) 1 of 3 random Skill cards to your hand, it costs (SacredBark They cost) 0 Energy this turn.
+SmokeBomb
+Smoke Bomb	Rare	Escape from a non-boss combat. Receive no rewards.
+SneckoOil
+Snecko Oil	Rare	Draw 5 (SacredBark 10) cards. Randomize the costs of all cards in your hand for the rest of the combat.
+SpeedPotion
+Speed Potion	Common	Gain 5 (SacredBark 10) Icon Dexterity Dexterity. At the end of your turn, lose 5 (SacredBark 10) Icon Dexterity Dexterity.
+StancePotion
+Stance Potion	Uncommon (Watcher only)	Enter Calm or Wrath.
+StrengthPotion
+Strength Potion	Common	Gain 2 (SacredBark 4) Icon Strength Strength.
+SwiftPotion
+Swift Potion	Common	Draw 3 (SacredBark 6) cards.
+WeakPotion
+Weak Potion	Common	Apply 3 (SacredBark 6) Icon Weak Weak.

@@ -1,0 +1,178 @@
+Burning Blood	Starter	Ironclad	At the end of combat, heal 6 HP.
+Cracked Core	Starter	Defect	At the start of each combat, Channel 1 Lightning.
+Pure Water	Starter	Watcher	At the start of each combat, add a Miracle into your hand.
+Ring of the Snake	Starter	Silent	At the start of each combat, draw 2 additional cards.
+Akabeko	Common		Your first Attack each combat deals 8 additional damage.
+Anchor	Common		Start each combat with 10 Block.
+Ancient Tea Set	Common		Whenever you enter a Rest Site, start the next combat with [E] [E] .
+Art of War	Common		If you do not play any Attacks during your turn, gain an additional [E] next turn.
+Bag of Marbles	Common		At the start of each combat, apply 1 Vulnerable to ALL enemies.
+Bag of Preparation	Common		At the start of each combat, draw 2 additional cards.
+Blood Vial	Common		At the start of each combat, heal 2 HP.
+Bronze Scales	Common		Start each combat with 3 Thorns.
+Centennial Puzzle	Common		The first time you lose HP each combat, draw 3 cards.
+Ceramic Fish	Common		Whenever you add a card to your deck, gain 9 Gold.
+Damaru	Common	Watcher	At the start of your turn, gain 1 Mantra.
+Data Disk	Common	Defect	Start each combat with 1 Focus.
+Dream Catcher	Common		Whenever you Rest, you may add a card into your deck.
+Happy Flower	Common		Every 3 turns, gain [E] .
+Juzu Bracelet	Common		Normal enemy combats are no longer encountered in ? rooms.
+Lantern	Common		Start each combat with an additional [E] .
+Maw Bank	Common		Whenever you climb a floor, gain 12 Gold. No longer works when you spend any Gold at a shop.
+Meal Ticket	Common		Whenever you enter a shop, heal 15 HP.
+Nunchaku	Common		Every time you play 10 Attacks, gain [E] .
+Oddly Smooth Stone	Common		Start each combat with 1 Dexterity.
+Omamori	Common		Negate the next 2 Curses you obtain.
+Orichalcum	Common		If you end your turn without Block, gain 6 Block.
+Pen Nib	Common		Every 10th Attack you play deals double damage.
+Potion Belt	Common		Upon pickup, gain 2 Potion slots.
+Preserved Insect	Common		Enemies in Elite combats have 25% less HP.
+Red Skull	Common	Ironclad	While your HP is at or below 50%, you have 3 additional Strength.
+Regal Pillow	Common		Whenever you Rest, heal an additional 15 HP.
+Smiling Mask	Common		The Merchant's card removal service now always costs 50 Gold.
+Snecko Skull	Common	Silent	Whenever you apply Poison, apply an additional 1 Poison.
+Strawberry	Common		Upon pickup, raise your Max HP by 7.
+The Boot	Common		Whenever you would deal 4 or less unblocked attack damage, increase it to 5.
+Tiny Chest	Common		Every 4th ? room is a Treasure room.
+Toy Ornithopter	Common		Whenever you use a potion, heal 5 HP.
+Vajra	Common		Start each combat with 1 Strength.
+War Paint	Common		Upon pickup, Upgrade 2 random Skills.
+Whetstone	Common		Upon pickup, Upgrade 2 random Attacks.
+Blue Candle	Uncommon		Unplayable Curse cards can now be played. Whenever you play a Curse, lose 1 HP and Exhaust it.
+Bottled Flame	Uncommon		Upon pickup, choose an Attack. Start each combat with this card in your hand.
+Bottled Lightning	Uncommon		Upon pickup, choose a Skill. Start each combat with this card in your hand.
+Bottled Tornado	Uncommon		Upon pickup, choose a Power card. Start each combat with this card in your hand.
+Darkstone Periapt	Uncommon		Whenever you obtain a Curse, increase your Max HP by 6.
+Duality	Uncommon	Watcher	Whenever you play an Attack, gain 1 temporary Dexterity.
+Eternal Feather	Uncommon		For every 5 cards in your deck, heal 3 HP whenever you enter a Rest Site.
+Frozen Egg	Uncommon		Whenever you add a Power card into your deck, Upgrade it.
+Gold-Plated Cables	Uncommon	Defect	Your rightmost Orb triggers its passive an additional time.
+Gremlin Horn	Uncommon		Whenever an enemy dies, gain [E] and draw 1 card.
+Horn Cleat	Uncommon		At the start of your 2nd turn, gain 14 Block.
+Ink Bottle	Uncommon		Whenever you play 10 cards, draw 1 card.
+Kunai	Uncommon		Every time you play 3 Attacks in a single turn, gain 1 Dexterity.
+Letter Opener	Uncommon		Every time you play 3 Skills in a single turn, deal 5 damage to ALL enemies.
+Matryoshka	Uncommon		The next 2 non-Boss chests you open contain 2 Relics.
+Meat on the Bone	Uncommon		If your HP is at or below 50% at the end of combat, heal 12 HP.
+Mercury Hourglass	Uncommon		At the start of your turn, deal 3 damage to ALL enemies.
+Molten Egg	Uncommon		Whenever you add an Attack into your deck, Upgrade it.
+Mummified Hand	Uncommon		Whenever you play a Power card, a random card in your hand costs 0 that turn.
+Ninja Scroll	Uncommon	Silent	At the start of each combat, add 3 Shivs into your hand.
+Ornamental Fan	Uncommon		Every time you play 3 Attacks in a single turn, gain 4 Block.
+Pantograph	Uncommon		At the start of Boss combats, heal 25 HP.
+Paper Krane	Uncommon	Silent	Enemies with Weak deal 40% less damage rather than 25%.
+Paper Phrog	Uncommon	Ironclad	Enemies with Vulnerable take 75% more damage rather than 50%.
+Pear	Uncommon		Upon pickup, raise your Max HP by 10.
+Question Card	Uncommon		Future card rewards have 1 additional card to choose from.
+Self-Forming Clay	Uncommon	Ironclad	Whenever you lose HP, gain 3 Block next turn.
+Shuriken	Uncommon		Every time you play 3 Attacks in a single turn, gain 1 Strength.
+Singing Bowl	Uncommon		When adding cards into your deck, you may raise your Max HP by 2 instead.
+Strike Dummy	Uncommon		Cards containing "Strike" deal 3 additional damage.
+Sundial	Uncommon		Every 3 times you shuffle your draw pile, gain [E] [E] .
+Symbiotic Virus	Uncommon	Defect	At the start of each combat, Channel 1 Dark.
+Teardrop Locket	Uncommon	Watcher	Start each combat in Calm.
+The Courier	Uncommon		The Merchant restocks cards, relics, and potions. All prices are reduced by 20%.
+Toxic Egg	Uncommon		Whenever you add a Skill into your deck, Upgrade it.
+White Beast Statue	Uncommon		Potions always appear in combat rewards.
+Bird-Faced Urn	Rare		Whenever you play a Power card, heal 2 HP.
+Calipers	Rare		At the start of your turn, lose 15 Block rather than all of your Block.
+Captain's Wheel	Rare		At the start of your 3rd turn, gain 18 Block.
+Champion Belt	Rare	Ironclad	Whenever you apply Vulnerable, apply 1 Weak.
+Charon's Ashes	Rare	Ironclad	Whenever you Exhaust a card, deal 3 damage to ALL enemies.
+Cloak Clasp	Rare	Watcher	At the end of your turn, gain 1 Block for each card in your hand.
+Dead Branch	Rare		Whenever you Exhaust a card, add a random card into your hand.
+Du-Vu Doll	Rare		For each Curse in your deck, start each combat with 1 Strength.
+Emotion Chip	Rare	Defect	If you lost HP during the previous turn, trigger the passive ability of all Orbs at the start of your turn.
+Fossilized Helix	Rare		Prevent the first time you would lose HP each combat.
+Gambling Chip	Rare		At the start of each combat, discard any number of cards, then draw that many cards.
+Ginger	Rare		You can no longer become Weakened.
+Girya	Rare		You can now gain Strength at Rest Sites (up to 3 times).
+Golden Eye	Rare	Watcher	Whenever you Scry, Scry 2 additional cards.
+Ice Cream	Rare		Energy is now conserved between turns.
+Incense Burner	Rare		Every 6 turns, gain 1 Intangible.
+Lizard Tail	Rare		When you would die, heal to 50% of your Max HP instead (works once).
+Magic Flower	Rare	Ironclad	Healing is 50% more effective during combat.
+Mango	Rare		Upon pickup, raise your Max HP by 14.
+Old Coin	Rare		Upon pickup, gain 300 Gold.
+Peace Pipe	Rare		You can now remove cards from your deck at Rest Sites.
+Pocketwatch	Rare		Whenever you play 3 or less cards during your turn, draw 3 additional cards at the start of your next turn.
+Prayer Wheel	Rare		Normal enemies drop an additional card reward.
+Shovel	Rare		You can now Dig for relics at Rest Sites.
+Stone Calendar	Rare		At the end of turn 7, deal 52 damage to ALL enemies.
+The Specimen	Rare	Silent	Whenever an enemy dies, transfer any Poison it has to a random enemy.
+Thread and Needle	Rare		Start each combat with 4 Plated Armor.
+Tingsha	Rare	Silent	Whenever you discard a card during your turn, deal 3 damage to a random enemy.
+Torii	Rare		Whenever you would receive 5 or less unblocked attack damage, reduce it to 1.
+Tough Bandages	Rare	Silent	Whenever you discard a card during your turn, gain 3 Block.
+Tungsten Rod	Rare		Whenever you would lose HP, lose 1 less.
+Turnip	Rare		You can no longer become Frail.
+Unceasing Top	Rare		Whenever you have no cards in hand during your turn, draw a card.
+Wing Boots	Rare		You may ignore paths when choosing the next room to travel to 3 times.
+Astrolabe	Boss		Upon pickup, Transform 3 cards, then Upgrade them.
+Black Blood	Boss	Ironclad	Replaces Burning Blood. At the end of combat, heal 12 HP.
+Black Star	Boss		Elites drop an additional relic when defeated.
+Busted Crown	Boss		Gain [E] at the start of your turn. Future card rewards have 2 less cards to choose from.
+Calling Bell	Boss		Upon pickup, obtain a unique Curse and 3 relics.
+Coffee Dripper	Boss		Gain [E] at the start of your turn. You can no longer Rest at Rest Sites.
+Cursed Key	Boss		Gain [E] at the start of your turn. Whenever you open a non-Boss chest, obtain a Curse.
+Ectoplasm	Boss		Gain [E] at the start of your turn. You can no longer gain Gold.
+Empty Cage	Boss		Upon pickup, remove 2 cards from your deck.
+Frozen Core	Boss	Defect	Replaces Cracked Core. If you end your turn with any empty Orb slots, Channel 1 Frost.
+Fusion Hammer	Boss		Gain [E] at the start of your turn. You can no longer Smith at Rest Sites.
+Holy Water	Boss	Watcher	Replaces Pure Water. At the start of each combat, add 3 Miracles into your hand.
+Hovering Kite	Boss	Silent	The first time you discard a card each turn, gain [E] .
+Inserter	Boss	Defect	Every 2 turns, gain 1 Orb slot.
+Mark of Pain	Boss	Ironclad	Gain [R] at the start of your turn. At the start of combat, shuffle 2 Wounds into your draw pile.
+Nuclear Battery	Boss	Defect	At the start of each combat, Channel 1 Plasma.
+Pandora's Box	Boss		Upon pickup, Transform all Strike and Defend cards.
+Philosopher's Stone	Boss		Gain [E] at the start of your turn. ALL enemies start combat with 1 Strength.
+Ring of the Serpent	Boss	Silent	Replaces Ring of the Snake. At the start of your turn, draw 1 additional card.
+Runic Cube	Boss	Ironclad	Whenever you lose HP, draw 1 card.
+Runic Dome	Boss		Gain [E] at the start of your turn. You can no longer see enemy intents.
+Runic Pyramid	Boss		At the end of your turn, you no longer discard your hand.
+Sacred Bark	Boss		Double the effectiveness of potions.
+Slaver's Collar	Boss		During Boss and Elite combats, gain [E] at the start of your turn.
+Snecko Eye	Boss		At the start of your turn, draw 2 additional cards. Start each combat Confused.
+Sozu	Boss		Gain [E] at the start of your turn. You can no longer obtain potions.
+Tiny House	Boss		Upon pickup, obtain 1 potion. Gain 50 Gold. Raise your Max HP by 5. Obtain 1 card. Upgrade 1 random card.
+Velvet Choker	Boss		Gain [E] at the start of your turn. You cannot play more than 6 cards per turn.
+Violet Lotus	Boss	Watcher	Whenever you exit Calm, gain an additional [E] .
+Wrist Blade	Boss	Silent	Attacks that cost 0 deal 4 additional damage.
+Brimstone	Shop	Ironclad	At the start of your turn, gain 2 Strength and ALL enemies gain 1 Strength.
+Cauldron	Shop		Upon pickup, brews 5 random potions.
+Chemical X	Shop		The effects of your cost X cards are increased by 2.
+Clockwork Souvenir	Shop		Start each combat with 1 Artifact.
+Dolly's Mirror	Shop		Upon pickup, obtain an additional copy of a card in your deck.
+Frozen Eye	Shop		When viewing your Draw Pile, the cards are now shown in order.
+Hand Drill	Shop		Whenever you break an enemy's Block, apply 2 Vulnerable.
+Lee's Waffle	Shop		Upon pickup, raise your Max HP by 7 and heal all of your HP.
+Medical Kit	Shop		Unplayable Status cards can now be played. Whenever you play a Status card, Exhaust it.
+Melange	Shop	Watcher	Whenever you shuffle your draw pile, Scry 3.
+Membership Card	Shop		50% discount on all products!
+Orange Pellets	Shop		Whenever you play a Power, Attack, and Skill in the same turn, remove all of your debuffs.
+Orrery	Shop		Upon pickup, choose and add 5 cards to your deck.
+Prismatic Shard	Shop		Combat reward screens now contain Colorless cards and cards from other colors.
+Runic Capacitor	Shop	Defect	Start each combat with 3 additional Orb slots.
+Sling of Courage	Shop		Start each Elite combat with 2 Strength.
+Strange Spoon	Shop		Cards which Exhaust when played will instead discard 50% of the time.
+The Abacus	Shop		Whenever you shuffle your draw pile, gain 6 Block.
+Toolbox	Shop		At the start of each combat, choose 1 of 3 random Colorless cards and add the chosen card into your hand.
+Twisted Funnel	Shop	Silent	At the start of each combat, apply 4 Poison to ALL enemies.
+Bloody Idol	Special		Whenever you gain Gold, heal 5 HP.
+Cultist Headpiece	Special		You feel more talkative.
+Enchiridion	Special		At the start of each combat, add a random Power card into your hand. It costs 0 for that turn.
+Face Of Cleric	Special		At the end of combat, raise your Max HP by 1.
+Golden Idol	Special		Enemies drop 25% more Gold.
+Gremlin Visage	Special		Start each combat with 1 Weak.
+Mark of the Bloom	Special		You can no longer heal.
+Mutagenic Strength	Special		Start each combat with 3 Strength. At the end of your first turn, lose 3 Strength.
+N'loth's Gift	Special		Triple the chance of finding Rare cards from combat rewards.
+N'loth's Hungry Face	Special		The next non-Boss chest you open is empty.
+Necronomicon	Special		The first Attack played each turn that costs 2 or more is played twice. Upon pickup, obtain a special Curse.
+Neow's Lament	Special		Enemies in your first 3 combats will have 1 HP.
+Nilry's Codex	Special		At the end of your turn, you may shuffle 1 of 3 random cards into your draw pile.
+Odd Mushroom	Special		When Vulnerable, take 25% more attack damage rather than 50%.
+Red Mask	Special		At the start of each combat, apply 1 Weak to ALL enemies.
+Spirit Poop	Special		It's unpleasant.
+Ssserpent Head	Special		Whenever you enter a ? room, gain 50 Gold.
+Warped Tongs	Special		At the start of your turn, Upgrade a random card in your hand for the rest of combat.

@@ -1,0 +1,146 @@
+Icon Artifact	Artifact	Negates X debuffs.	Counter
+Icon Barricade	Barricade	Icon Block Block is not removed at the start of turn.	No
+Icon Buffer	Buffer	Prevent the next X times you would lose HP.	Counter
+Icon Dexterity	Dexterity	Increases Icon Block Block gained from cards by X.	Intensity
+Icon CardDraw2	Draw Card	Draw X additional cards next turn.	Intensity
+Icon EnergizedGreen	Energized	Gain X additional Energy next turn.	Intensity
+Icon EnergizedBlue
+Icon Focus	Focus	Increases the effectiveness of Orbs by X.	Intensity
+Icon Intangible	Intangible	Reduce ALL damage taken and HP loss to 1 this turn. (lasts X turns)	Duration
+Icon Mantra	Mantra	When you gain 10 Mantra, enter Divinity	Counter
+Icon Metallicize	Metallicize	At the end of your/its turn, gain X Icon Block Block.	Intensity
+Icon NextTurnBlock	Next Turn Block	Gain X Icon Block Block next turn.	Intensity
+Icon PlatedArmor	Plated Armor	At the end of your turn, gain X Icon Block Block. Receiving unblocked attack damage reduces Plated Armor by 1.	Intensity
+Icon Regen	Regenerate	At the end of its turn, heals X HP.	Intensity
+Icon Ritual	Ritual	At the end of its turn, gains X Icon Strength Strength.	Intensity
+Icon Strength	Strength	Increases attack damage by X.	Intensity
+Icon Thorns	Thorns	When attacked, deals X damage back.	Intensity
+Icon Vigor	Vigor	Your next Attack deals X additional damage.	Intensity
+
+
+Icon Accuracy	Accuracy	Shivs deal X additional damage.	Intensity
+Icon AfterImage	After Image	Whenever you play a card, gain X Icon Block Block	Intensity
+Icon Amplify	Amplify	Your next X Power cards are played twice.	Counter
+Icon BattleHymn	Battle Hymn	At the start of each turn add X Smites into your hand.	Intensity
+Icon Berserk	Berserk	At the start of your turn, gain X Energy.	Intensity
+Icon Blasphemy	Blasphemer	Blasphemy	At the start of your turn, die. [1]	No
+Icon Blur	Blur	Icon Block Block is not removed at the start of your next X turns.	Duration
+Icon Brutality	Brutality	At the start of your turn, lose X HP and draw X cards.	Intensity
+Icon Burst	Burst	Your next X Skills are played twice.	Counter
+Icon EnergizedBlue	Collect	Put a Miracle+ into your hand at the start of your next X turns.	Duration
+Icon Combust	Combust	At the end of your turn, lose 1 HP(for each Combust played) and deal X damage to ALL enemies.	Intensity
+Icon Corruption	Corruption	Skills cost 0. Whenever you play a Skill, Exhaust it.	No
+Icon CreativeAI	Creative AI	At the start of your turn, add X random Power cards into your hand.	Intensity
+Icon DarkEmbrace	Dark Embrace	Whenever a card is Exhausted, draw X cards.	Intensity
+Icon DemonForm	Demon Form	At the start of your turn, gain X Icon Strength Strength.	Intensity
+Icon DevaForm	Deva	Deva Form	At the start of your turn gain Energy N times and increase this gain by X.	Intensity[2][3]
+Icon Devotion	Devotion	At the start of your turn, gain X Icon Mantra Mantra.	Intensity
+Icon DoubleDamage	Double Damage	Phantasmal Killer	Attacks deal double damage for X turns.	Duration
+Icon DoubleTap	Double Tap	Your next X Attacks are played twice.	Counter
+Icon DoubleTap	Duplication	Duplication Potion Static Duplication Potion	Your next X cards are played twice.	Counter
+Icon EchoForm	Echo Form	The first X cards you play each turn are played twice.	Counter
+Icon Electro	Electro	Electrodynamics	Lightning Lightning hits ALL enemies.	No
+Icon Envenom	Envenom	Whenever you deal unblocked attack damage, apply X Icon Poison Poison	Intensity
+Icon Retain	Equilibrium	Icon Retain Retain your hand for X turns.	Duration
+Icon Establishment	Establishment	Whenever a card is Icon Retain Retained, lower its cost by X.	Intensity
+Icon Evolve	Evolve	Whenever you draw a Status, draw X cards.	Intensity
+Icon FeelNoPain	Feel No Pain	Whenever a card is Exhausted, gain X Icon Block Block	Intensity
+Icon FireBreathing	Fire Breathing	Whenever you draw a Status or Curse card, deal X damage to ALL enemies.	Intensity
+Icon FlameBarrier	Flame Barrier	When attacked, deals X damage back. Wears off at the start of your next turn.	Intensity
+Icon Foresight	Foresight	At the start of your turn, Scry X.	Intensity
+Icon Swivel	Free Attack Power	Swivel	The next X Attacks you play costs 0.	Counter
+Icon Heatsink	Heatsink	Heatsinks	Whenever you play a Power card, draw X cards.	Intensity
+Icon Hello	Hello	Hello World	At the start of your turn, add X random Common cards into your hand.	Intensity
+Icon InfiniteBlades	Infinite Blades	At the start of your turn, add X Shivs into your hand.	Intensity
+Icon Juggernaut	Juggernaut	Whenever you gain Icon Block Block, deal X damage to a random enemy.	Intensity
+Icon LikeWater	Like Water	At the end of your turn, if you are in Calm, gain X Icon Block Block.	Intensity
+Icon Loop	Loop	At the start of your turn, trigger the passive ability of your next Orb X times.	Intensity
+Icon CardDraw	Machine Learning	At the start of your turn, draw X additional cards.	Intensity
+Icon Magnetism	Magnetism	At the start of your turn, add X random colorless cards into your hand.	Intensity
+Icon MasterReality	Master Reality	Whenever a card is created during combat, Upgrade it.	No
+Icon Mayhem	Mayhem	At the start of your turn, play the top X card of your draw pile.	Intensity
+Icon MentalFortress	Mental Fortress	Whenever you switch Stances, gain X Icon Block Block.	Intensity
+Icon Nightmare	Nightmare	Add X of a chosen card into your hand next turn.	Special[4]
+Icon Nirvana	Nirvana	Whenever you Scry, gain X Icon Block Block.	Intensity
+Icon NoxiousFume	Noxious Fumes	At the start of your turn, apply X Icon Poison Poison to ALL enemies.	Intensity
+Icon Omega	Omega	At the end of your turn, deal X damage to ALL enemies.	Intensity
+Icon Panache	Panache	If you play N[5] more cards this turn, deal X damage to all enemies.	Intensity[6]
+Icon PenNib	PenNib Pen Nib	Your next Attack deals double damage.	No
+Icon Phantasmal	Phantasmal	Phantasmal Killer	Deal Double Damage for the next X turns.	Duration
+Icon Rage	Rage	Whenever you play an Attack, gain X Icon Block Block.	Intensity
+Icon Rebound	Rebound	The next X cards you play this turn are placed on top of your draw pile.	Counter
+Icon Regen	Regeneration	RegenPotion Regen Potion	At the end of your turn, heal X HP and reduce Icon Regen Regen by 1.	Intensity and Duration
+Icon Rushdown	Rushdown	Whenever you enter Wrath, draw X cards.	Intensity
+Icon SelfRepair	Repair	Self Repair	At the end of combat, heal X HP.	Intensity
+Icon Rupture	Rupture	Whenever you lose HP from a card, gain X Icon Strength Strength.	Intensity
+Icon SadisticNature	Sadistic	Sadistic Nature	Whenever you apply a debuff to an enemy, deal X damage.	Intensity
+Icon Rage	Simmering Rage	Simmering Fury	At the start of your next turn, enter Wrath	No
+Icon StaticDischarge	Static Discharge	Whenever you receive attack damage, channel X Lightning Lightning.	Intensity
+Icon Storm	Storm	Whenever you play a Power card, channel X Lightning Lightning.	Intensity
+Icon CardDraw	Study	At the end of your turn, shuffle X Insights into your draw pile.	Intensity
+Icon Surrounded	Surrounded	Spire Shield and Spire Spear	Receive 50% more damage if attacked from behind. Use targeting cards or potions to change your orientation.	No
+Icon TheBomb	The Bomb	At the end of N[7] turns, deal X damage to all enemies.	Special[4]
+Icon ThousandCuts	Thousand Cuts	A Thousand Cuts	Whenever you play a card, deal X damage to ALL enemies.	Intensity
+Icon ToolsoftheTrade	Tools of the Trade	At the start of your turn, draw X cards and discard X cards.	Intensity
+Icon WaveoftheHand	Wave of the Hand	Whenever you gain Icon Block Block this turn, apply X Icon Weak Weak to ALL enemies.	Intensity
+Icon Retain	Well-Laid Plans	At the end of your turn, Icon Retain Retain up to X cards.	Intensity
+
+
+Icon Rage	Angry	Mad Gremlin	Upon receiving attack damage, gains X Icon Strength Strength.	Intensity
+Icon SurroundedLeft	Back Attack	Spire Shield and Spire Spear	Deals 50% more damage as it is attacking you from behind.	No
+Icon BeatOfDeath	Beat of Death	Corrupt Heart	Whenever you play a card, take X damage.	Intensity
+Icon Curiosity	Curiosity	Awakened One	Whenever you play a Power card, gains X Icon Strength Strength.	Intensity
+Icon CurlUp	Curl Up	Louses	On receiving attack damage, rolls up and gains X Icon Block Block (Once per combat).	Intensity
+Icon Rage	Enrage	Gremlin Nob	Whenever you play a skill, gains X Icon Strength Strength	Intensity
+Icon Explosive	Explosive	Exploder	Explodes in N[8] turns, dealing X damage.	Special
+Icon Fading	Fading	Transient	Dies in X[9] turns.	Duration
+Icon Invincible	Invincible	Corrupt Heart	Can only lose X more HP this turn.	Intensity
+Icon LifeLink	Life Link	Darkling	If other Darklings are still alive, revives in 2 turns.[10]	No
+Icon Mallable	Malleable	Snake Plant, Writhing Mass	Upon receiving attack damage, gains X Icon Block Block. Icon Block Block gain increases as Malleable is triggered. Resets to X at the start of your turn.	Intensity
+Icon Minion	Minion	Gremlin Leader's Gremlins, Bronze Automaton's Bronze Orbs, The Collector's Torch Heads, Reptomancer's Daggers	Minions abandon combat without their leader.[11]	No
+Icon ModeShift	Mode Shift	The Guardian	After receiving X damage, changes to a defensive mode.	Intensity
+Icon PainfulStab	Painful Stabs	Corrupt Heart, Book of Stabbing	Whenever you receive attack damage from this enemy, add X Wounds into your discard pile.	Intensity
+Icon Reactive	Reactive	Writhing Mass	Upon receiving attack damage, changes its intent.	No
+Icon SharpHide	Sharp Hide	The Guardian	Whenever you play an attack, take X damage.	Intensity
+Icon Shifting	Shifting	Transient	Upon losing HP, loses that much Icon Strength Strength until the end of the turn.	No
+Icon Split	Split	Acid Slime, Spike Slime, Slime Boss	When its HP is at or below 50%, will split into 2 smaller Slimes with its current HP.	No
+Icon SporeCloud	Spore Cloud	Fungi Beast	On death, applies X Icon Vulnerable Vulnerable	Intensity
+Icon Stasis	Stasis	Bronze Orbs	On death, a stolen card is returned to your hand.	No
+Icon Stasis	Strength Up	Orb Walker	At the end of its turn, gains X Icon Strength Strength.	Intensity
+Icon Thievery	Thievery	Thieves	Steals X Gold whenever it attacks.	Intensity
+Icon TimeWarp	Time Warp	Time Eater	Whenever you play N[12] cards, ends your turn and gains X Icon Strength Strength.	Counter[13]
+Icon Unawakened	Unawakened	Awakened One	This enemy hasn't awakened yet...	No
+
+
+
+
+
+Icon Bias	Bias	Player	Biased Cognition	At the start of your turn, lose X Icon Focus Focus.	Intensity
+Icon TalktotheHand	Block Return	Enemy	Talk to the Hand	Whenever you attack this enemy, gain X Icon Block Block.	Intensity
+Icon Choke	Choked	Enemy	Choke	Whenever you play a card this turn, the targeted enemy loses X HP.	Intensity
+Icon Restricted	Constricted	Player	Spire Growth	At the end of your turn, take X damage.	Intensity
+Icon CorpseExplosion	Corpse Explosion	Enemy	Corpse Explosion	On death, the enemy deals X times its Max HP worth of damage to all other enemies.	Intensity
+Icon DrawReduction	Draw Reduction	Player	Time Eater	Draw 1 less card next X turns.	Duration
+Icon Entangled	Entangled	Player	Red Slaver	You may not play any Attacks this turn.	No
+Icon Fasting	Fasting	Player	Fasting	Gain X less Energy at the start of each turn.	Intensity
+Icon Hex	Hex	Player	Chosen	Whenever you play a non-Attack card, add X Dazed to your draw pile.	Intensity
+Icon LockDown	Lock-On	Enemy	Bullseye	Lightning Lightning and Dark Dark orbs deal 50% more damage (rounded down) to the targeted enemy.	Duration
+Icon Mark	Mark	Enemy	Pressure Points	Whenever you play Pressure Points, all enemy with Mark loses X HP.
+
+Icon NoGuard	No Block	Player	Panic Button	You may not gain Icon Block Block from cards for the next X turns.	Duration
+Icon WraithForm	Wraith Form	Player	Wraith Form	Lose X Icon Dexterity Dexterity at the start of your turn.	Intensity
+
+
+
+Icon Confused	Confused	The costs of your cards are randomized on draw, from 0 to 3.	No
+Icon StrengthDown	Dexterity Down	At the end of your turn, lose X Icon Dexterity Dexterity.	Intensity
+Icon Focus	Focus (Negative)	Decreases the effectiveness of your Orbs by X.	Intensity
+Icon Frail	Frail	Icon Block Block gained from cards is reduced by 25%.	Duration
+Icon NoDraw	No Draw	You may not draw any more cards this turn.	No
+Icon Poison	Poison	At the beginning of its turn, the target loses X HP and 1 stack of Icon Poison Poison.	Intensity and Duration
+Icon Shackled	Shackled	At the end of its turn, regains X Icon Strength Strength.	Intensity
+Icon Slow	Slow	The enemy receives (X*10)% more damage from attacks this turn. Whenever you play a card, increases X by 1.	Intensity
+Icon Strength	Strength (Negative)	Decreases attack damage by X.	Intensity
+Icon StrengthDown	Strength Down	At the end of your turn, lose X Icon Strength Strength.	Intensity
+Icon Vulnerable	Vulnerable	Target takes 50% more damage from attacks.	Duration
+Icon Weak	Weak	Target deals 25% less attack damage.	Duration
