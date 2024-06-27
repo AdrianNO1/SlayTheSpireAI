@@ -21,7 +21,7 @@ reliclist = {k.lower(): v for k, v in reliclist.items()}
 potionlist = {k.lower(): v for k, v in potionlist.items()}
 
 claude_client = anthropic.Client(api_key=os.getenv("CLAUDE_API_KEY"))
-openai_client = openai.Client()
+openai_client = openai.Client(api_key=os.getenv("OPENAI_API_KEYt"))
 
 model = "gpt-4o"
 
@@ -397,10 +397,10 @@ Potions:
                     i += 1
             if arg not in combat_hand:
                 debug_print("Could not find card in hand:", arg, "Hand:", combat_hand)
-            else:
-                command = "play " + str(combat_hand.index(arg)+1) + f" {target}"
-                commands.append(command)
-                combat_hand.remove(arg)
+
+            command = f"play {arg} {target}"
+            commands.append(command)
+            #combat_hand.remove(arg)
 
         elif action == "choose":
             commands.append("choose " + arg)

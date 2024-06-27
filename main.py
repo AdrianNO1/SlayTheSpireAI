@@ -1,5 +1,5 @@
 import sys
-print("ready")
+print("ready") # not really
 sys.stdout.flush()
 
 import time, threading, datetime, os, json, traceback
@@ -24,17 +24,20 @@ def main(app):
             jsonified = json.loads(game_state.replace(",\n        ...", ""))
             if "error" not in jsonified:
                 app.last_game_state = game_state
+                if app.is_in_combat:
+                    app.do_action()
             else:
                 app.print("game state contains error")
 
-            filename = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S") + ".json"
+            filename = datetime.datetime.now().strftime("%m-%d_%H-%M-%S") + ".json"
             with open(os.path.join(logs_path, filename), "w") as f:
                 json.dump(json.loads(game_state), f, indent=4)
         
         except Exception as e:
             s = f"An error occurred: {e}\n\n\n\n\n\n"
-            with open(os.path.join(dir_path, "log_com_mod.txt"), "a") as f:
-                f.write(s)
+            filename = datetime.datetime.now().strftime("%m-%d_%H-%M-%S") + "-ERROR.json"
+            with open(os.path.join(logs_path, filename), "w") as f:
+                json.dump(json.loads(game_state), f, indent=4)
             app.debug_print(s)
             break
 
@@ -106,20 +109,47 @@ class SlayTheSpireModUI:
         self.status_label.config(text=f"Status: {status}")
 
     def do_action(self):
-        for command in self.queued_commands:
-            self.master.update()
-            self.print("Performing action: " + command)
-            print(command)
-            sys.stdout.flush()
-            time.sleep(1)
+        if self.is_in_combat:
+            if len(self.queued_commands) > 0:
+                command = self.queued_commands.pop(0)
+                if command.split()[0] == "play":
+                    state = json.loads(self.last_game_state.replace(",\n        ...", ""))
+                    if "in_game" in state:
+                        if not state["in_game"]:
+                            self.debug_print("M: Not in game. Skipping action: " + command)
+                            return
+                    if "relics" not in state:
+                        state = state["game_state"]
+                    
+                    hand = [card["name"].lower() for card in state["combat_state"]["hand"]]
+                    card_to_play = " ".join(command.split()[1:-1]).lower()
+                    if card_to_play not in hand:
+                        self.debug_print(f"M: Card {card_to_play} not in hand. Skipping action: {command}")
+                        return
+                    else:
+                        command = f"play {hand.index(card_to_play)+1} {command.split()[-1]}"
+
+                self.print("Performing action: " + command)
+                print(command)
+                sys.stdout.flush()
+            else:
+                print("Performed actions")
+                if self.auto_generate_var.get():
+                    self.toggle_start_stop()
+        else:
+            for command in self.queued_commands:
+                self.master.update()
+                self.print("Performing action: " + command)
+                print(command)
+                sys.stdout.flush()
+                time.sleep(1)
             
-        if self.auto_generate_var.get():
+            self.queued_commands = []
+            
+        if self.auto_generate_var.get() and not self.is_in_combat:
             time.sleep(1)
-            if self.is_in_combat():
-                time.sleep(1.5)
             self.toggle_start_stop()
         
-        self.queued_commands = []
 
     def toggle_start_stop(self):
         if self.last_game_state is None:
