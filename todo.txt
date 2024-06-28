@@ -1,0 +1,15 @@
+tell model potion effects descriptions not doubles with sacred bark
+
+Details:
+X cost cards
+Ethereal
+Exhaust
+Power
+
+add what type of card it is in the desc
+
+reflect on damage about to take, how much damage you can deal. If you can kill any enemies with this.
+If those enemies are attacking, they will die and won't be able to attack anymore.
+
+If the cards turn out to be too expensive to play, revisit what cards you can play to ensure you play the optimal cards. If you go overbudget, don't just play the cards that cost less than 3 energy or something
+
